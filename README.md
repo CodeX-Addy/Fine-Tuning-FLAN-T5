@@ -25,7 +25,6 @@ This repository demonstrates the process of fine-tuning the FLAN-T5 model from H
 - Python 3.8+
 - Transformers library
 - Datasets library
-- Scikit-learn
 - ROUGE score library
 
 Install dependencies using:
