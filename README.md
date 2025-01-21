@@ -15,7 +15,7 @@ This repository demonstrates the process of fine-tuning the FLAN-T5 model from H
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Fine-Tuning-FLAN-T5.git
+   git clone https://github.com/CodeX-Addy/Fine-Tuning-FLAN-T5.git
    cd Fine-Tuning-FLAN-T5
    ```
 
